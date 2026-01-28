@@ -88,13 +88,14 @@ pip install numpy pandas tabulate jupyter
 ```
 Exam-Scheduling-GA/
 │
-├── main.ipynb            # Main implementation notebook
-├── log                   # Fitness logs for each generation
-├── courses               # Course data
-├── studentCourse         # Student-course mapping
-├── studentNames          # Student list
-├── teachers              # Teacher list
+├── Asg03-22I-1711.ipynb   # Main implementation notebook
+├── log.txt               # Fitness logs for each generation
+├── courses.csv           # Course data
+├── studentCourse.csv     # Student-course mapping
+├── studentNames.csv      # Student list
+├── teachers.csv          # Teacher list
 └── README.md             # Project documentation
+
 ```
 
 ---
